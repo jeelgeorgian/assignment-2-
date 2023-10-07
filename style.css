@@ -1,0 +1,16 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(243, 242, 242);
+    text-align: center;
+}
+.firsthappy{
+    font-size: 20px;
+    font-family: 'AR One Sans', sans-serif;
+}
+.secondsad{
+    font-size: 20px;
+    font-family: 'Young Serif', serif;
+}
